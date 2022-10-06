@@ -51,7 +51,7 @@ function calcular() {
 
     case '6':
       // Convertir de Hexadecimal  a Decimal
-      //obtengo el hexadecimal del imput htm dato
+      //obtengo el hexadecimal del imput htlm dato
       //sin convertir
       numeroI = parseInt(dato.value);
       numerocalculado = parseInt(numeroI, 16)
